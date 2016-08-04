@@ -1,0 +1,16 @@
+Source: ttf-deepin-opensymbol
+Section: fonts
+Priority: optional
+Maintainer: lilongyu <lilongyu@deepin.com>
+Build-Depends: debhelper (>= 9~)
+Standards-Version: 3.9.3
+Homepage: https://www.deepin.org/font.html
+
+Package: ttf-deepin-opensymbol
+Depends: ${misc:Depends}
+Architecture: all
+Priority: extra
+Description: Allows you to seamlessly transit from Wingdings to Deepin OpenSymbol.
+ It is a substitution for Wingdings, which can perfectly solve the issue of displaying symbols in WPS.
+ .
+ It allows you to seamlessly transit from Wingdings to Deepin OpenSymbol.

@@ -1,0 +1,29 @@
+{ "props":
+  { "ascent": 96
+  , "descent": 32
+  , "em": 128
+  , "encoding": "UnicodeFull"
+  , "lang": "English (US)"
+  , "family": "Wingdings 3"
+  , "style": "Regular"
+  , "familyname": "Wingdings 3"
+  , "fontname": "Deepin-OpenSymbol-3-Regular"
+  , "fullname": "Deepin OpenSymbol 3 Regular"
+  }
+, "glyphs":
+  { "src": "svg/DeepinOpenSymbol3"
+  , "glyphmaps": "svg/DeepinOpenSymbol3.map"
+  , "width": 128
+  }
+, "sfnt_names":
+  [ ["English (US)", "Copyright", "Copyright (c) 2016 by Deepin"]
+  , ["English (US)", "Family", "Wingdings 3"]
+  , ["English (US)", "SubFamily", "Regular"]
+  , ["English (US)", "UniqueID", "Deepin OpenSymbol 3"]
+  , ["English (US)", "Fullname", "Deepin OpenSymbol 3 Regular"]
+  , ["English (US)", "Version", "Version 1.000"]
+  , ["English (US)", "PostScriptName", "DeepinOpenSymbolRegular3"]
+  ]
+, "input": "."
+, "output": [ "build/DeepinOpenSymbol3.ttf" ]
+}
