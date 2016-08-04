@@ -39,7 +39,7 @@ def addGlyphs(font, config):
     glyphs = config['glyphs']
     src_dir = glyphs.pop('src')
     try:
-        glyphs_map = loadConfig(glyphs.pop('glyphmaps'))
+        glyphs_map = loadConfig(glyphs.pop('glyphmap'))
     except IOError:
         raise
     for svg in os.listdir(src_dir):

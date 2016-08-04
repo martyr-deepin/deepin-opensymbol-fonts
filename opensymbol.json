@@ -12,7 +12,7 @@
   }
 , "glyphs":
   { "src": "svg/DeepinOpenSymbol"
-  , "glyphmaps": "svg/DeepinOpenSymbol.map"
+  , "glyphmap": "svg/DeepinOpenSymbol.map"
   , "width": 128
   }
 , "sfnt_names":
@@ -24,6 +24,5 @@
   , ["English (US)", "Version", "Version 1.000"]
   , ["English (US)", "PostScriptName", "DeepinOpenSymbolRegular"]
   ]
-, "input": "."
 , "output": [ "build/DeepinOpenSymbol.ttf" ]
 }
