@@ -3,7 +3,7 @@
 # Where to find scfbuild?
 BUILD := tools/svgs2ttf
 
-.PHONY: all clean
+.PHONY: all clean build
 
 SRC := $(wildcard *.json)
 
