@@ -16,13 +16,17 @@
   , "width": 128
   }
 , "sfnt_names":
-  [ ["English (US)", "Copyright", "Copyright (c) 2016 by Deepin"]
+  [ ["English (US)", "Copyright", "Copyright (c) 2016 Wuhan Deepin Technology Co., Ltd. All Rights Reserved."]
   , ["English (US)", "Family", "Wingdings 3"]
   , ["English (US)", "SubFamily", "Regular"]
   , ["English (US)", "UniqueID", "Deepin OpenSymbol 3"]
   , ["English (US)", "Fullname", "Deepin OpenSymbol 3 Regular"]
-  , ["English (US)", "Version", "Version 1.000"]
+  , ["English (US)", "Version", "Version 1.00"]
   , ["English (US)", "PostScriptName", "DeepinOpenSymbolRegular3"]
+  , ["English (US)", "Manufacturer", "Wuhan Deepin Technology Co., Ltd."]
+  , ["English (US)", "Designer", "Miya Du & Parker Lee"]
+  , ["English (US)", "Vendor URL", "http://www.deepin.org/font.html"]
+  , ["English (US)", "Descriptor", "The fonts were originally named Icons, Arrows, and Stars to complement the Lucida text font family by the same designers. Renamed, reorganized, and released in 2016 as Deepin OpenSymbol, the three fonts provide a harmoniously designed set of icons representing the common components of personal computer systems and the elements of graphical user interfaces."]
   ]
 , "output": [ "build/DeepinOpenSymbol3.ttf" ]
 }
