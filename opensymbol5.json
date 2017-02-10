@@ -1,0 +1,32 @@
+{ "props":
+  { "ascent": 96
+  , "descent": 32
+  , "em": 128
+  , "encoding": "UnicodeFull"
+  , "lang": "English (US)"
+  , "family": "MT Extra"
+  , "style": "Regular"
+  , "familyname": "MT Extra"
+  , "fontname": "Deepin-OpenSymbol-5-Regular"
+  , "fullname": "Deepin OpenSymbol 5 Regular"
+  }
+, "glyphs":
+  { "src": "svg/DeepinOpenSymbol5"
+  , "glyphmap": "svg/DeepinOpenSymbol5.map"
+  , "width": 128
+  }
+, "sfnt_names":
+  [ ["English (US)", "Copyright", "Copyright (c) 2016 Wuhan Deepin Technology Co., Ltd. All Rights Reserved."]
+  , ["English (US)", "Family", "MT Extra"]
+  , ["English (US)", "SubFamily", "Regular"]
+  , ["English (US)", "UniqueID", "Deepin OpenSymbol 5"]
+  , ["English (US)", "Fullname", "Deepin OpenSymbol 5 Regular"]
+  , ["English (US)", "Version", "Version 1.00"]
+  , ["English (US)", "PostScriptName", "DeepinOpenSymbolRegular5"]
+  , ["English (US)", "Manufacturer", "Wuhan Deepin Technology Co., Ltd."]
+  , ["English (US)", "Designer", "Miya Du & Parker Lee"]
+  , ["English (US)", "Vendor URL", "http://www.deepin.org/font.html"]
+  , ["English (US)", "Descriptor", "The fonts were originally named Icons, Arrows, and Stars to complement the Lucida text font family by the same designers. Renamed, reorganized, and released in 2016 as Deepin OpenSymbol, the three fonts provide a harmoniously designed set of icons representing the common components of personal computer systems and the elements of graphical user interfaces."]
+  ]
+, "output": [ "build/DeepinOpenSymbol5.ttf" ]
+}
