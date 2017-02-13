@@ -16,7 +16,7 @@
   , "width": 128
   }
 , "sfnt_names":
-  [ ["English (US)", "Copyright", "Copyright (c) 2016 Wuhan Deepin Technology Co., Ltd. All Rights Reserved."]
+  [ ["English (US)", "Copyright", "Copyright (c) 2017 Wuhan Deepin Technology Co., Ltd. All Rights Reserved."]
   , ["English (US)", "Family", "MT Extra"]
   , ["English (US)", "SubFamily", "Regular"]
   , ["English (US)", "UniqueID", "Deepin OpenSymbol 5"]
@@ -25,8 +25,8 @@
   , ["English (US)", "PostScriptName", "DeepinOpenSymbolRegular5"]
   , ["English (US)", "Manufacturer", "Wuhan Deepin Technology Co., Ltd."]
   , ["English (US)", "Designer", "Miya Du & Parker Lee"]
-  , ["English (US)", "Vendor URL", "http://www.deepin.org/font.html"]
-  , ["English (US)", "Descriptor", "The fonts were originally named Icons, Arrows, and Stars to complement the Lucida text font family by the same designers. Renamed, reorganized, and released in 2016 as Deepin OpenSymbol, the three fonts provide a harmoniously designed set of icons representing the common components of personal computer systems and the elements of graphical user interfaces."]
+  , ["English (US)", "Vendor URL", "https://www.deepin.org/original/deepin-opensymbol"]
+  , ["English (US)", "Descriptor", "The fonts were originally named Icons, Arrows, and Stars to complement the Lucida text font family by the same designers. Renamed, reorganized, and released in 2017 as Deepin OpenSymbol, the three fonts provide a harmoniously designed set of icons representing the common components of personal computer systems and the elements of graphical user interfaces."]
   ]
 , "output": [ "build/DeepinOpenSymbol5.ttf" ]
 }

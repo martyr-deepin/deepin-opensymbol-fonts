@@ -2,7 +2,6 @@ import fontforge
 import json
 import sys
 
-
 def main(name):
     f = fontforge.open('%s.ttf' % name)
     result = {}
@@ -18,4 +17,3 @@ def main(name):
 
 if __name__ == '__main__':
     main(sys.argv[1].split('.', -1)[0])
-    

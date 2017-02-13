@@ -1,0 +1,32 @@
+{ "props":
+  { "ascent": 96
+  , "descent": 32
+  , "em": 128
+  , "encoding": "UnicodeFull"
+  , "lang": "English (US)"
+  , "family": "webdings"
+  , "style": "Regular"
+  , "familyname": "webdings"
+  , "fontname": "Deepin-OpenSymbol-4-Regular"
+  , "fullname": "Deepin OpenSymbol 4 Regular"
+  }
+, "glyphs":
+  { "src": "svg/DeepinOpenSymbol4"
+  , "glyphmap": "svg/DeepinOpenSymbol4.map"
+  , "width": 128
+  }
+, "sfnt_names":
+  [ ["English (US)", "Copyright", "Copyright (c) 2017 Wuhan Deepin Technology Co., Ltd. All Rights Reserved."]
+  , ["English (US)", "Family", "webdings"]
+  , ["English (US)", "SubFamily", "Regular"]
+  , ["English (US)", "UniqueID", "Deepin OpenSymbol 4"]
+  , ["English (US)", "Fullname", "Deepin OpenSymbol 4 Regular"]
+  , ["English (US)", "Version", "Version 1.00"]
+  , ["English (US)", "PostScriptName", "DeepinOpenSymbolRegular4"]
+  , ["English (US)", "Manufacturer", "Wuhan Deepin Technology Co., Ltd."]
+  , ["English (US)", "Designer", "Miya Du & Parker Lee"]
+  , ["English (US)", "Vendor URL", "https://www.deepin.org/original/deepin-opensymbol"]
+  , ["English (US)", "Descriptor", "The fonts were originally named Icons, Arrows, and Stars to complement the Lucida text font family by the same designers. Renamed, reorganized, and released in 2017 as Deepin OpenSymbol, the three fonts provide a harmoniously designed set of icons representing the common components of personal computer systems and the elements of graphical user interfaces."]
+  ]
+, "output": [ "build/DeepinOpenSymbol4.ttf" ]
+}
